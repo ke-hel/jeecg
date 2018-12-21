@@ -1,0 +1,1 @@
+sqlplus ldcglxt/vip2015lbzc @exp.sql

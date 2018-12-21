@@ -1,0 +1,1 @@
+sqlplus system/sdss @imp.sql

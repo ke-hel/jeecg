@@ -1,0 +1,5 @@
+#Tue Jul 31 13:11:56 CST 2018
+eclipse.preferences.version=1
+validator.Checked=WebRoot/webpage,WebRoot/plug-in
+validator.Revalidate=true
+validator.Unchecked=
